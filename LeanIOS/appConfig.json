@@ -1,0 +1,440 @@
+{
+  "general": {
+    "screenOrientation": {
+      "iphone": null,
+      "ipad": null,
+      "androidPhone": null,
+      "androidTablet": null
+    },
+    "userAgentRegexes": [],
+    "replaceStrings": [],
+    "nativeBridgeUrls": [],
+    "languages": [],
+    "userAgentAdd": "median",
+    "enableWindowOpen": true,
+    "forceUserAgent": "",
+    "publicKey": "erwopj",
+    "deviceRegKey": "r5p64jtxtv2ax7xrpwpwqwxd2w",
+    "appName": "Warda Market",
+    "initialUrl": "https://wardamarket.site",
+    "iosBundleId": "co.median.ios.erwopj",
+    "androidPackageName": "co.median.android.erwopj",
+    "iosUserAgentAdd": "median",
+    "androidUserAgentAdd": "median",
+    "androidSigningKey": "release",
+    "injectMedianJS": true,
+    "forceSessionCookieExpiry": 0,
+    "androidForceUserAgent": "",
+    "iosForceUserAgent": "",
+    "keepScreenOn": null,
+    "iosCustomHeaders": {},
+    "androidCustomHeaders": {},
+    "version": 2
+  },
+  "navigation": {
+    "tabNavigation": {
+      "tabSelectionConfig": [],
+      "tabMenus": [],
+      "active": false
+    },
+    "sidebarNavigation": {
+      "menuSelectionConfig": {
+        "redirectLocations": [
+          {
+            "regex": ".*",
+            "menuName": "default",
+            "loggedIn": true
+          }
+        ]
+      },
+      "menus": [
+        {
+          "active": false,
+          "items": [
+            {
+              "url": "https://wardamarket.site/",
+              "label": "Home page",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d8%a6%d9%8a%d8%a7%d8%aa/",
+              "label": "الغذائيات",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%ae%d8%a8%d8%b2/",
+              "label": "خبز",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d9%88%d8%ac%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d9%81%d8%b7%d8%a7%d8%b1/",
+              "label": "وجبات  الأفطار",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d9%88%d8%a7%d9%84%d8%a7%d8%ac%d8%a8%d8%a7%d9%86/",
+              "label": "منتجات الألبان والأجبان",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d8%ad%d9%84%d9%8a%d8%a8-%d9%88-%d8%a7%d9%84%d9%82%d8%b4%d8%b7%d8%a9/",
+              "label": "الحليب و القشطة",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d8%b2%d9%8a%d9%88%d8%aa-%d9%88-%d8%a7%d9%84%d8%b3%d9%85%d9%86/",
+              "label": "الزيوت و السمن",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d9%89/",
+              "label": "المربى",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d8%a8%d9%82%d9%88%d9%84%d9%8a%d8%a7%d8%aa/",
+              "label": "البقوليات",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d9%85%d8%b9%d9%83%d8%b1%d9%88%d9%86%d8%a9-%d9%88-%d8%a7%d9%84%d8%a3%d9%86%d8%af%d9%88%d9%85%d9%8a/",
+              "label": "المعكرونة و الاندومي",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/product-category/%d8%a7%d9%84%d9%85%d8%b9%d9%84%d8%a8%d8%a7%d8%aa/",
+              "label": "المعلبات",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%81%d8%a7%d8%aa/",
+              "label": "المنظفات",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/my-account/",
+              "label": "لوحة حسابي",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/wishlist/",
+              "label": "قائمة الرغبات",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/register/",
+              "label": "تسجيل (جديد)",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/login/",
+              "label": "تسجيل الدخول",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/cart/",
+              "label": "0",
+              "subLinks": []
+            },
+            {
+              "url": "https://wardamarket.site/#",
+              "label": "Toggle website search",
+              "subLinks": []
+            }
+          ],
+          "name": "default"
+        }
+      ]
+    },
+    "regexInternalExternal": {
+      "rules": [
+        {
+          "mode": "external",
+          "label": "Non-web links",
+          "pagesToTrigger": "custom",
+          "regex": "^(?!https?://).*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Facebook",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Twitter",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*twitter\\.com/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Instagram",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*instagram\\.com/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Google Maps",
+          "pagesToTrigger": "custom",
+          "regex": "https?://maps\\.google\\.com.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Google Maps Search",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*google\\.com/maps/search/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "LinkedIn",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*linkedin\\.com/.*"
+        },
+        {
+          "mode": "internal",
+          "label": "Microsoft Login",
+          "pagesToTrigger": "custom",
+          "regex": "https?://login\\.microsoftonline\\.com.*"
+        },
+        {
+          "mode": "internal",
+          "label": "All pages on my domain",
+          "pagesToTrigger": "domain",
+          "regex": "https?:\\/\\/([-\\w]+\\.)*wardamarket.site(\\/.*)?$"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "All Other Links",
+          "pagesToTrigger": "all",
+          "regex": ".*"
+        }
+      ],
+      "active": true
+    },
+    "androidPullToRefresh": false,
+    "iosPullToRefresh": true,
+    "navigationTitles": {
+      "titles": [],
+      "active": true
+    },
+    "ignorePageFinishedRegexes": [],
+    "actionConfig": {
+      "actions": [],
+      "actionSelection": [],
+      "active": true
+    },
+    "androidShowRefreshButton": false,
+    "iosShowRefreshButton": false,
+    "deepLinkDomains": {
+      "domains": [],
+      "enableAndroidApplinks": false
+    },
+    "navigationLevels": {
+      "levels": [],
+      "active": true
+    },
+    "toolbarNavigation": {
+      "enabled": false,
+      "visibilityByPages": "allPages",
+      "visibilityByBackButton": "backButtonActive",
+      "regexes": [
+        {
+          "enabled": true,
+          "regex": ".*"
+        }
+      ],
+      "items": [
+        {
+          "system": "back",
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "refresh",
+          "enabled": false,
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "forward",
+          "enabled": false,
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        }
+      ]
+    },
+    "redirects": [],
+    "iosShowOfflinePage": true,
+    "iosConnectionOfflineTime": 10,
+    "androidShowOfflinePage": true,
+    "androidConnectionOfflineTime": 10,
+    "iosSettings": {},
+    "maxWindows": {
+      "enabled": false,
+      "numWindows": 5,
+      "autoClose": false
+    },
+    "swipeGestures": null
+  },
+  "styling": {
+    "iosLaunchScreen": {
+      "backgroundColor": "#000000",
+      "backgroundColorDark": "#000000",
+      "backgroundImage": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162192_u20exfd0znqcc_000000_1_2x2.png",
+      "backgroundImageDark": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162207_5chydjb4wucvj_000000_1_2x2.png",
+      "centerImageDark": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png",
+      "centerImage": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png"
+    },
+    "androidLaunchImages": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162400_c064r76ma63fu_180x180.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162413_kz9r7adkn6mkm_270x270.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162423_bjd3vuv0kmm76_360x360.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162444_3x2pd3cgg340g_540x540.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162475_5f01t4muqrp08_720x720.png"
+    },
+    "androidLaunchImagesDark": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162497_tep2cdp6vkm8a_180x180.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162521_gdkx91a8e40n4_270x270.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162570_ydqz0zu9jgpue_360x360.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162616_6cw16pdavywbw_540x540.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/1723506162670_4437wku6w4j5e_720x720.png"
+    },
+    "transitionInteractiveDelayMax": 0.2,
+    "menuAnimationDuration": 0.15,
+    "androidShowSplash": true,
+    "disableAnimations": false,
+    "hideWebviewAlpha": 0.5,
+    "iosDarkMode": "auto",
+    "iosTitleColor": "#0E0D08",
+    "iosTitleColorDark": "#ffffff",
+    "iosTintColor": "#0E0D08",
+    "iosTintColorDark": "#ffffff",
+    "iosSidebarTextColor": "#0E0D08",
+    "iosSidebarTextColorDark": "#ffffff",
+    "iosStatusBarBackgroundColor": "#ffffffff",
+    "iosStatusBarBackgroundColorDark": "#000000",
+    "iosEnableBlurInStatusBar": false,
+    "iosSidebarBackgroundColor": "#f8f8f8",
+    "iosSidebarBackgroundColorDark": "#202020",
+    "iosNavigationBarTintColor": "#f8f8f8",
+    "iosNavigationBarTintColorDark": "#202020",
+    "iosTabBarTintColor": "#f8f8f8",
+    "iosTabBarTintColorDark": "#000000",
+    "icon": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png",
+    "iosHeaderImage": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png",
+    "showActionBar": false,
+    "showNavigationBar": false,
+    "iosSidebarFont": "Default",
+    "androidHideTitleInActionBar": false,
+    "navigationTitleImage": false,
+    "iosTheme": "default",
+    "androidTheme": "auto",
+    "androidBackgroundColor": "#FFFFFF",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidSidebarForegroundColor": "#1A100B",
+    "androidActionBarBackgroundColor": "#FFFFFF",
+    "androidActionBarForegroundColor": "#1A100B",
+    "androidPullToRefreshColor": "#1A100B",
+    "androidAccentColor": "#009688",
+    "androidSidebarSeparatorColor": "#CCCCCC",
+    "androidSidebarHighlightColor": "#1A100B",
+    "androidTabBarBackgroundColor": "#FFFFFF",
+    "androidTabBarTextColor": "#949494",
+    "androidTabBarIndicatorColor": "#1A100B",
+    "androidTabPressedBackgroundColor": "#CCCCCC",
+    "androidStatusBarBackgroundColor": "#5C5C5C",
+    "androidShowLogoInSideBar": true,
+    "androidShowAppNameInSideBar": true,
+    "androidSwipeNavigationBackgroundColor": "#FFFFFF",
+    "androidSwipeNavigationActiveColor": "#000000",
+    "androidSwipeNavigationInactiveColor": "#666666",
+    "androidActionBarBackgroundColorDark": "#333333",
+    "androidStatusBarBackgroundColorDark": "#333333",
+    "androidActionBarForegroundColorDark": "#FFFFFF",
+    "androidAccentColorDark": "#80cbc4",
+    "androidBackgroundColorDark": "#333333",
+    "androidSidebarForegroundColorDark": "#FFFFFF",
+    "androidSidebarBackgroundColorDark": "#333333",
+    "androidSidebarSeparatorColorDark": "#666666",
+    "androidSidebarHighlightColorDark": "#FFFFFF",
+    "androidPullToRefreshColorDark": "#FFFFFF",
+    "androidTabBarTextColorDark": "#FFFFFF",
+    "androidTabBarBackgroundColorDark": "#333333",
+    "androidTabBarIndicatorColorDark": "#666666",
+    "androidTabPressedBackgroundColorDark": "#999999",
+    "androidSwipeNavigationBackgroundColorDark": "#333333",
+    "androidSwipeNavigationActiveColorDark": "#FFFFFF",
+    "androidSwipeNavigationInactiveColorDark": "#666666",
+    "androidSplashBackgroundColor": "#000000",
+    "androidSplashBackgroundColorDark": "#000000",
+    "androidWebviewTextZoom": null,
+    "androidIcon": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_android_1723506151191.png",
+    "iosIcon": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png",
+    "customIcons": {},
+    "iosStatusBarStyle": "auto",
+    "iosEnableOverlayInStatusBar": false,
+    "androidStatusBarStyle": "auto",
+    "androidEnableOverlayInStatusBar": false,
+    "iosActivityIndicatorColor": "#808080",
+    "iosActivityIndicatorColorDark": "#808080",
+    "androidActivityIndicatorColor": "#808080",
+    "androidActivityIndicatorColorDark": "#808080",
+    "navigationTitleImageLocation": "assets/defaults/app-icon-placeholder.png",
+    "navigationTitleImageLocationDark": "assets/defaults/app-icon-placeholder.png",
+    "androidHeaderImage": "assets/defaults/app-icon-placeholder.png",
+    "androidHeaderImageDark": "assets/defaults/app-icon-placeholder.png",
+    "iosHeaderImageDark": "https://s3.amazonaws.com/gonativeio/app_files/erwopj/app_icon_ios_1723506137714.png",
+    "forceViewportWidth": null,
+    "pinchToZoom": null,
+    "iosDynamicType": null
+  },
+  "permissions": {
+    "usesGeolocation": false,
+    "androidDownloadToPublicStorage": false,
+    "enableWebRTCamera": false,
+    "enableWebRTCMicrophone": false,
+    "iosLocationUsageDescription": "",
+    "iosCameraUsageDescription": "",
+    "iosMicrophoneUsageDescription": "",
+    "iOSATTUserTrackingDescription": "",
+    "iOSRequestATTConsentOnLoad": false
+  },
+  "developmentTools": {
+    "enableWebConsoleLogs": false
+  },
+  "services": {
+    "oneSignalV5": {
+      "active": false
+    }
+  },
+  "contextMenu": {
+    "linkActions": [
+      "copyLink",
+      "openExternal"
+    ],
+    "enabled": false
+  },
+  "allowZoom": null,
+  "security": {
+    "network": {
+      "allowInsecure": null
+    }
+  }
+}
